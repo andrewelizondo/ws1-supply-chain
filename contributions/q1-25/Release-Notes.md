@@ -1,6 +1,6 @@
-# Relase notes on the landscape paper
+# Release notes on the landscape paper
 
-### Febraury 5th, 2025
+### February 5th, 2025
 
 - Introduced definition of the AI supply chain
 - Model generation risks and mitigations
